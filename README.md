@@ -1,2 +1,3 @@
-# .github
-Welcome to Quinten Club
+# Quinten Club
+
+An online community for the ones called Quinten
