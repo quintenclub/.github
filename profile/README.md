@@ -1,4 +1,6 @@
-# Welcome to Quinten Club
+# Quinten Club
+
+An online community for those with the name Quinten
 
 ## Hi there 👋
 
