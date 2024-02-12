@@ -1,3 +1,3 @@
 # Quinten Club
 
-An online community for the ones called Quinten
+An online community for those with the name Quinten
